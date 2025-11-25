@@ -1,0 +1,169 @@
+/* Centraliza o bloco do H1 na página */
+.logo-title-custom {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;    /* Alinha o logo e o texto verticalmente */
+    gap: 15px; /* Espaço entre o logo e o texto */
+    font-size: 2.5em; /* Garante que o H1 mantenha o tamanho */
+    margin-bottom: 30px; /* Espaço para o conteúdo abaixo */
+}
+
+/* Centraliza a imagem do logo (apenas para a home page) */
+body.home .page-header {
+    text-align: center; /* Garante que o container do título se centralize */
+}
+
+/* Define que qualquer mudança na imagem levará 0.3 segundos (suave) */
+.post-content img {
+    transition: transform 0.3s ease;
+}
+
+/* Quando o mouse passar em cima (:hover) */
+.post-content img:hover {
+    transform: scale(1.03); /* Aumenta 3% do tamanho */
+}
+
+
+/* Seleciona o card do post no PaperMod */
+.post-entry {
+    transition: all 0.3s ease;
+    border-radius: 8px; /* Arredonda levemente as bordas */
+}
+
+.post-entry {
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border 0.3s;
+    /* Adiciona uma borda transparente para não "pular" quando o mouse passar */
+    border: 2px solid transparent; 
+}
+
+
+.post-entry:hover {
+    /* Faz o card subir levemente */
+    transform: translateY(-5px);
+    
+    /* Adiciona uma borda na cor "secundária" do tema para destacar */
+    border-color: var(--secondary);
+    
+    /* Sombra mais forte para garantir visibilidade */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    
+    /* Garante que o card fique acima dos outros elementos */
+    z-index: 2;
+}
+
+body.dark .post-entry:hover {
+    /* Sombra mais clara para aparecer no fundo escuro */
+    box-shadow: 0 10px 30px rgba(255, 255, 255, 0.1);
+    background: var(--entry); /* Garante que o fundo do card não fique transparente */
+}
+
+.post-content h2, .main h2 {
+    text-align: center;
+}
+
+.sponsors-grid {
+    display: flex; /* <-- ESSA LINHA FORÇA O LAYOUT LADO A LADO */
+    flex-wrap: wrap; 
+    justify-content: center; /* <-- ESSA LINHA CENTRALIZA AS LOGOS */
+    gap: 30px; 
+    margin-top: 40px;
+}
+
+.sponsor-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    /* --- AQUI.sponsor-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    /* ALTERAÇÃO AQUI: Damos um tamanho máximo à caixa,
+       mas deixamos a altura flexível para o conteúdo. */
+    max-width: 180px;  /* Largura máxima da caixa (pode ajustar) */
+    min-width: 120px;  /* Garante que não fique minúsculo */
+    height: 120px;     /* Altura FIXA da caixa para alinhar */
+    
+    background: #fff; 
+    border-radius: 8px;
+    padding: 10px; /* Espaçamento interno */
+}
+
+.sponsor-card img {
+    max-width: 100%; /* Não deixa a imagem ser maior que a caixa */
+    max-height: 100%; /* Não deixa a imagem ser maior que a altura da caixa */
+    object-fit: contain; /* ESSENCIAL: Garante que a imagem não estique ou corte,
+                            mas "caiba" dentro do espaço, mantendo proporções. */
+    height: auto; /* Permite que a altura da imagem se ajuste */
+}
+
+/* --- Redes Sociais no Rodapé --- */
+
+.footer {
+    padding: 40px 20px;
+    text-align: center;
+    font-size: 14px;
+    background-color: #2F4F2F;
+    color: #FFFFFF !important; 
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.footer a, 
+.footer span, 
+.footer-address,
+.footer-container {
+    color: #FFFFFF !important;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Espaço entre as redes e o endereço */
+    margin-bottom: 30px;
+    align-items: center;
+}
+
+/* Estilo dos Links (Redes Sociais) */
+.social-icons-footer {
+    display: flex;
+    flex-wrap: wrap; /* Quebra linha no celular se não couber */
+    justify-content: center;
+    gap: 25px; /* Espaço entre cada bloco (Instagram ... LinkedIn) */
+}
+
+.social-icons-footer a {
+    display: flex;
+    align-items: center; /* Alinha ícone e texto verticalmente */
+    gap: 8px; /* Espacinho entre o ícone e o texto */
+    color: var(--primary);
+    text-decoration: none;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+/* Tamanho dos ícones */
+.social-icons-footer svg, 
+.footer-address svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* Efeito Hover (Fica verde quando passa o mouse) */
+.social-icons-footer a:hover {
+    color: #556B2F; 
+    transform: translateY(-2px);
+}
+
+/* Estilo do Endereço */
+.footer-address {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    color: var(--secondary); /* Cor um pouco mais suave para o endereço */
+    max-width: 600px; /* Evita que fique uma linha muito longa em telas grandes */
+    line-height: 1.5;
+}
+
