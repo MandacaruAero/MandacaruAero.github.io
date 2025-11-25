@@ -1,0 +1,34 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - main # Roda sempre que houver push na branch principal
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          submodules: true # Importante para os temas
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true # Usar a versão Extended para o SASS/SCSS
+
+      - name: Build Site
+        run: hugo --minify
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public # O Hugo gera os arquivos aqui
+          force_orphan: true # Garante um histórico limpo para o build
+          # Como é um User Page, o deploy deve ir para a branch 'main'
+          publish_branch: main
