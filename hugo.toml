@@ -1,0 +1,41 @@
+baseURL = 'https://exemplo.com/' # Mude isso quando tiver o domínio real
+languageCode = 'pt-br'
+title = 'Mandacaru Aerodesign' # Exemplo
+theme = 'PaperMod'
+
+[params.label]
+    text = "Mandacaru Aerodesign" # Nome que aparece ao lado do logo
+    icon = "/images/logo_aero.svg"  # O caminho para o seu arquivo
+    iconHeight = 50            # Tamanho em pixels (ajuste conforme necessário)
+
+[params]
+  defaultTheme = "light"
+  disableThemeToggle = true
+  description = "Site oficial da equipe de Aerodesign..."
+  mainSections = ["blog", "noticias"]
+
+  [params.assets]
+    favicon = "/images/logo_aero.svg"
+ 
+
+[menu]
+  [[menu.main]]
+    identifier = "projetos"
+    name = "Nossos Aviões"
+    url = "/projetos/"
+    weight = 10
+  [[menu.main]]
+    identifier = "patrocinio"
+    name = "Patrocinadores"
+    url = "/patrocinadores/"
+    weight = 20
+  [[menu.main]]
+    identifier = "historia"
+    name = "História"
+    url = "/historia/"
+    weight = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
