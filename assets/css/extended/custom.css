@@ -159,11 +159,39 @@ body.dark .post-entry:hover {
 /* Estilo do Endereço */
 .footer-address {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     gap: 8px;
-    color: var(--secondary); /* Cor um pouco mais suave para o endereço */
-    max-width: 600px; /* Evita que fique uma linha muito longa em telas grandes */
+    color: #FFFFFF !important;
+    /*color: var(--secondary); /* Cor um pouco mais suave para o endereço */
+    /*max-width: 600px; /* Evita que fique uma linha muito longa em telas grandes */
     line-height: 1.5;
+    text-align: center;
+    padding: 0 15px;
+}
+@media (max-width: 600px) { /* Aumentamos o range para pegar mais dispositivos */
+    
+    /* 1. Remove todas as margens e paddings externas do Footer para usar 100% da tela */
+    .footer {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    
+    /* 2. Força o container do endereço a usar a largura total */
+    .footer-address {
+        flex-direction: column !important; /* Icone em cima, texto embaixo */
+        width: 100%; /* Garante que ele use 100% do espaço disponível */
+        padding: 0 10px !important; /* Adiciona um padding interno pequeno (10px) */
+    }
+    
+    /* 3. Garante que o texto do endereço quebre */
+    .footer-address span {
+        max-width: 100% !important; /* Anula qualquer min-width que esteja vazando */
+        text-align: center;
+        /* ESSENCIAL: Garante que palavras longas quebrem se necessário */
+        white-space: normal !important; 
+        word-break: break-word !important; 
+    }
 }
 
