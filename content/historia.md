@@ -27,11 +27,7 @@ description: "A trajetória da equipe de AeroDesign da UFPE"
 
  Em 2009, a base da equipe foi mantida e novas metas foram estabelecidas. O aprimoramento do relatório técnico e a intensificação dos testes de voo em Recife foram decisivos para o desempenho em São José dos Campos. O esforço resultou na 22ª posição geral e no 1º lugar entre as equipes do Norte-Nordeste, marcando a melhor classificação histórica da equipe até o momento.
 
- Em 2010, a expectativa com a competição era muito grande. Inovações no projeto aerodinâmico, como a utilização de flaps e desenvolvimento de um perfil de asa próprio, evolução nos projetos estruturais, com a criação de um software de calculo para materiais compósitos, e avanço significativo no item de Estabilidade e Controle, marcaram esse ano. Esses esforços foram recompensados com a boa nota de relatório.
-
  Em 2010, a expectativa para a competição era alta. O ano foi marcado por inovações no projeto aerodinâmico, incluindo a utilização de flaps e o desenvolvimento de um perfil de asa próprio. Houve também evolução nos projetos estruturais, com a criação de um software de cálculo para materiais compósitos, além de avanços significativos em Estabilidade e Controle. Todo esse esforço técnico foi recompensado com um excelente desempenho no relatório de projeto.
-
- Em 2011, uma equipe praticamente reformulada iniciou o ano, apresentando um software de otimização para pontuação. O software consite em um otimizador multidisciplinar, relacionando as principais áreas do projeto como: aerodinâmica, estabilidade e controle, desempenho e estrutura. Com isso, tivemos uma grande economia de tempo na elaboração do projeto da aeronave. O lado negativo neste ano foi o não comparecimento a competição por motivos financeiros.
 
  O ano de 2011 começou com uma equipe praticamente reformulada e uma grande inovação técnica: um software de otimização de pontuação. A ferramenta atuava como um otimizador multidisciplinar, integrando as principais áreas do projeto: aerodinâmica, estabilidade e controle, desempenho e estrutura. Essa tecnologia permitiu uma significativa economia de tempo no desenvolvimento da aeronave. Infelizmente, apesar do avanço técnico, a equipe não pôde comparecer à competição devido à falta de recursos financeiros.
 
