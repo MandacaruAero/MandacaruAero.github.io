@@ -195,3 +195,10 @@ body.dark .post-entry:hover {
     }
 }
 
+/* Aplica apenas aos parágrafos (p) dentro da classe .historia-texto */
+.historia-texto p {
+    text-indent: 30px;         /* Recuo na primeira linha (estilo livro) */
+    margin-bottom: 20px;       /* Espaço entre os parágrafos */
+    line-height: 1.8;          /* Altura da linha para leitura confortável */
+    font-size: 1.1rem;         /* (Opcional) Aumenta um pouco a letra */
+}

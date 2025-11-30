@@ -22,6 +22,18 @@ layout: "home"
 </div>
 
 
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; margin-bottom: 40px;"> 
+<div style="flex: 1; min-width: 300px;">
+        <img src="/images/galpao_foto.jfif" alt="Foto do Galpão da equipe" style="border-radius: 8px; width: 100%;">
+    </div>
+    <div style="flex: 1; min-width: 300px;">
+        <h2>Nossa Missão</h2>
+        <p>
+            Aprender e difundir o conhecimento técnico de aeronaves em Pernambuco, desenvolver a capacidade de trabalho em equipe e de empreendedorismo, promover atividades extracurriculares e aumentar a proximidade dos alunos com as empresas que apóiam o projeto. São estes os objetivos que fazem parte da rotina de nosso trabalho.
+        </p>
+    </div>
+</div>
+
 ## Patrocinadores
 
 <div class="sponsors-grid">
