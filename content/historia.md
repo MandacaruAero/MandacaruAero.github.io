@@ -33,4 +33,24 @@ description: "A trajetória da equipe de AeroDesign da UFPE"
 
  Em 2012, a equipe foi totalmente remodelada, restando apenas um integrante com experiência na competição. Metade do time era composta por estudantes de Engenharia Elétrica, Eletrônica, de Produção e Naval. Apesar da inexperiência, o grupo elaborou o relatório mais bem pontuado da história da equipe, com destaque para Estrutura (2ª melhor nota, desconsiderando as plantas). Também foi conquistada a primeira menção honrosa: a aeronave registrou o menor tempo de retirada de carga da Classe Regular (4,09 segundos).
 
+ O ano de 2013 foi marcado por um forte contraste entre a excelência do projeto e a execução em pista. Nos relatórios técnicos, a equipe brilhou, alcançando as melhores notas de Estabilidade e Desempenho de sua história, com a nota de Estabilidade figurando entre as 10 melhores de toda a competição. Contudo, na SAE Brasil AeroDesign, o resultado prático não acompanhou o teórico. A equipe enfrentou dificuldades para validar os voos nas três primeiras baterias, resultando na desclassificação. O revés, no entanto, não abalou o moral do grupo, que encerrou o ano com altas expectativas de recuperação.
+
+ O ano de 2014 representou um verdadeiro renascimento. Com uma equipe extremamente reduzida, formada por apenas cinco integrantes, o grupo enfrentou o desafio de projetar e construir o avião. O esforço foi reconhecido na Competição SAE Brasil AeroDesign: a equipe foi amplamente elogiada pelos jurados e adversários pela qualidade do projeto e pela competitividade da aeronave, provando que a dedicação supera a falta de mão de obra. O sentimento final foi de orgulho em representar Pernambuco e otimismo para o futuro.
+
+ A temporada de 2017 entrou para a história como um marco de superação e excelência. A equipe Mandacaru quebrou um jejum de quatro anos sem validar voos classificatórios e fez isso em grande estilo: bateu seus recordes internos de maior carga paga transportada e maior quantidade de voos realizados em uma única competição. O desempenho em pista garantiu a 16ª colocação na Classe Regular, a melhor posição geral da equipe em seus 17 anos de existência até então. O reconhecimento técnico também foi notável: o grupo conquistou o 8º lugar em Projeto (somatório de relatório e apresentação oral), figurando no Top 10 nacional de engenharia.
+
+ O ano de 2018 foi de consolidação. A equipe garantiu sua permanência na elite nacional ao conquistar a 17ª colocação geral (Top 20) e o posto de 4ª melhor equipe do Norte-Nordeste. Toda a experiência adquirida na temporada serviu de combustível imediato para o planejamento do ano seguinte.
+
+ O ano de 2020 foi marcado pela pandemia de COVID-19, que impactou o mundo inteiro. Pela primeira vez em décadas, a competição SAE Brasil AeroDesign não ocorreu presencialmente. Foi um ano atípico, de pausa nas pistas, exigindo que a equipe priorizasse a saúde e a segurança de seus membros.
+
+ O ano de 2021 continuou sendo atípico. A competição foi realizada em formato virtual, limitando-se à avaliação de projetos (relatórios). A equipe adaptou-se bem ao modelo e garantiu a 7ª colocação na Categoria Micro, demonstrando qualidade técnica na engenharia do projeto.
+
+ O ano de 2022 marcou o tão aguardado retorno ao formato presencial, mas trouxe consigo o maior desafio recente da equipe: o choque de realidade na transição do remoto para o físico. Apesar do esforço em marcar presença no retorno do evento, a equipe não conseguiu colocar a aeronave em voo. Apesar disso, os relatórios de projeto e conquistamos a 11ª posição.
+
+ Em 2023 ocorreu um problema semelhante. Apesar do esforço, a equipe não conseguiu validar o vídeo de voo exigido, ficando sem pontuação na etapa prática por mais um ano.
+
+ Em 2024, a equipe retornou a São José dos Campos com expectativas renovadas e um projeto considerado extremamente promissor. Infelizmente, apesar das expectativas e do potencial demonstrado pelo projeto, não foi possível realizar o voo durante o evento.
+
+ Em 2025, ocorreu algo semelhante a 2004. Infelizmente, obstáculos impediram a viagem da equipe para a competição presencial. Contudo, este momento não representa uma parada, mas sim uma etapa estratégica de introspecção. O grupo encerra o ano focado em analisar os erros e, principalmente, dedicado à preparação técnica e ao planejamento minucioso para retornar com força total na próxima temporada.
+
 </div>
