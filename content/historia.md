@@ -1,6 +1,6 @@
 ---
 title: "Nossa História"
-date: 2025-11-29
+date: 2025-12-06
 draft: false
 description: "A trajetória da equipe de AeroDesign da UFPE"
 ---
@@ -36,6 +36,12 @@ description: "A trajetória da equipe de AeroDesign da UFPE"
  O ano de 2013 foi marcado por um forte contraste entre a excelência do projeto e a execução em pista. Nos relatórios técnicos, a equipe brilhou, alcançando as melhores notas de Estabilidade e Desempenho de sua história, com a nota de Estabilidade figurando entre as 10 melhores de toda a competição. Contudo, na SAE Brasil AeroDesign, o resultado prático não acompanhou o teórico. A equipe enfrentou dificuldades para validar os voos nas três primeiras baterias, resultando na desclassificação. O revés, no entanto, não abalou o moral do grupo, que encerrou o ano com altas expectativas de recuperação.
 
  O ano de 2014 representou um verdadeiro renascimento. Com uma equipe extremamente reduzida, formada por apenas cinco integrantes, o grupo enfrentou o desafio de projetar e construir o avião. O esforço foi reconhecido na Competição SAE Brasil AeroDesign: a equipe foi amplamente elogiada pelos jurados e adversários pela qualidade do projeto e pela competitividade da aeronave, provando que a dedicação supera a falta de mão de obra. O sentimento final foi de orgulho em representar Pernambuco e otimismo para o futuro.
+
+ {{< figure src="/images/historia/equipe2014.jpg" caption="Equipe de 2014 na XVI Competição SAE Brasil Aerodesign" alt="Equipe da Mandacaru de 2014 composta por 5 membros" align="center" width="600" >}}
+
+ O ano de 2015 foi marcado por uma ambição sem precedentes. Pela primeira vez, a equipe ingressou na Classe Micro. Buscando superar seus limites, a Mandacaru assumiu o desafio logístico e técnico de competir em duas categorias simultâneas na mesma temporada: Regular e Micro.
+
+ O ano de 2016 foi marcado pela ousadia e pela busca de novos horizontes. Seguindo a iniciativa de diversificação do ano anterior, a equipe Mandacaru decidiu estrear na exigente Classe Advanced. A complexidade técnica dessa categoria impôs severas dificuldades ao desenvolvimento do projeto, resultando em uma temporada árdua. Contudo, a experiência gerou um aprendizado técnico inestimável sobre sistemas aeronáuticos avançados
 
  A temporada de 2017 entrou para a história como um marco de superação e excelência. A equipe Mandacaru quebrou um jejum de quatro anos sem validar voos classificatórios e fez isso em grande estilo: bateu seus recordes internos de maior carga paga transportada e maior quantidade de voos realizados em uma única competição. O desempenho em pista garantiu a 16ª colocação na Classe Regular, a melhor posição geral da equipe em seus 17 anos de existência até então. O reconhecimento técnico também foi notável: o grupo conquistou o 8º lugar em Projeto (somatório de relatório e apresentação oral), figurando no Top 10 nacional de engenharia.
 

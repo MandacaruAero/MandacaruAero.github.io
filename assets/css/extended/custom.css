@@ -202,3 +202,28 @@ body.dark .post-entry:hover {
     line-height: 1.8;          /* Altura da linha para leitura confortável */
     font-size: 1.1rem;         /* (Opcional) Aumenta um pouco a letra */
 }
+
+/* --- Estilo para Imagens com Legenda (Figure) --- */
+
+figure {
+    display: table;
+    margin: 30px auto; /* Centraliza o bloco e dá espaço em cima/embaixo */
+    text-align: center; /* Centraliza a legenda e a imagem */
+    max-width: 100%;    /* Garante que não vaze no celular */
+}
+
+figure img {
+    border-radius: 8px; /* Cantos arredondados na imagem */
+    max-width: 100%;    /* Imagem responsiva */
+    height: auto;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* Sombra leve para destacar */
+}
+
+/* O texto da legenda */
+figcaption {
+    margin-top: 10px;     /* Espaço entre a imagem e o texto */
+    color: #666;          /* Cor cinza escuro (mais elegante que preto) */
+    font-size: 0.9rem;    /* Texto um pouco menor que o parágrafo */
+    font-style: italic;   /* Deixa em itálico */
+    line-height: 1.4;
+}

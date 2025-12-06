@@ -9,10 +9,17 @@
     <atom:link href="http://localhost:1313/projetos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Severina</title>
-      <link>http://localhost:1313/projetos/aviao-2024/</link>
+      <link>http://localhost:1313/projetos/severina-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/aviao-2024/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Severina na pista&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/avioes/severina.JPG&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projetos/severina-2025/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Um aeromodelo sendo preparado para decolar&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/avioes/severina.JPG&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aeronave Leviana</title>
+      <link>http://localhost:1313/projetos/leviana-2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projetos/leviana-2018/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Uma asa voadora com a silhueta de Reginaldo Rossi&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/avioes/aeronave-leviana.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

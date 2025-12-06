@@ -7,5 +7,33 @@
     <generator>Hugo -- 0.152.2</generator>
     <language>pt-br</language>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2018</title>
+      <link>http://localhost:1313/tags/2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2018/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2025</title>
+      <link>http://localhost:1313/tags/2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classe Micro</title>
+      <link>http://localhost:1313/tags/classe-micro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/classe-micro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classe Regular</title>
+      <link>http://localhost:1313/tags/classe-regular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/classe-regular/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
