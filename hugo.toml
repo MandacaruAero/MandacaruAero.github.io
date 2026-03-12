@@ -1,6 +1,6 @@
-baseURL = 'https://mandacaruaero.github.io/' # Mude isso quando tiver o domínio real
+baseURL = 'https://mandacaruaero.github.io/' # Tem que ser o mesmo do domínio do site
 languageCode = 'pt-br'
-title = 'Mandacaru Aerodesign' # Exemplo
+title = 'Mandacaru Aerodesign'
 theme = 'PaperMod'
 
 [params.label]
@@ -17,7 +17,7 @@ theme = 'PaperMod'
   [params.assets]
     favicon = "/images/logo_aero.svg"
  
-
+# Paginas do header
 [menu]
   [[menu.main]]
     identifier = "projetos"
@@ -38,4 +38,4 @@ theme = 'PaperMod'
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
+      unsafe = true           # Permite uso de CSS para customizar

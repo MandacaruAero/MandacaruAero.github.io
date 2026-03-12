@@ -13,7 +13,7 @@ description: "A trajetória da equipe de AeroDesign da UFPE"
 
  Em 2002, graças aos feitos realizados na competição, o AeroDesign ganhou notoriedade em todo o departamento de engenharia, despertando o interesse de vários estudantes em participar do projeto. A competição tornou-se popular, mas as dificuldades persistiam. Ainda faltavam espaço físico, computadores, ferramentas e apoio financeiro, apesar de o conhecimento técnico ter evoluído ligeiramente. Nesse contexto, foram criadas duas equipes: “Aerobeat” e “Topeira”.
 
- O ano de 2003 marcou a primeira viagem de ônibus para São José dos Campos, enfrentando uma jornada de dois dias de estrada. A representante do grupo foi a equipe “Topeira”, que competiu com o avião “Isabel”, batizado em referência a um forte furacão que atingia os Estados Unidos naquele período
+ O ano de 2003 marcou a primeira viagem de ônibus para São José dos Campos, enfrentando uma jornada de dois dias de estrada. A representante do grupo foi a equipe “Topeira”, que competiu com o avião “Isabel”, batizado em referência a um forte furacão que atingia os Estados Unidos naquele período.
 
  O ano de 2004 foi marcado por um momento difícil. A escassez de apoio financeiro impossibilitou a viagem para a competição. Apesar disso, a equipe não parou e utilizou esse tempo para focar exclusivamente na preparação e no planejamento para o próximo ano.
 
@@ -23,7 +23,7 @@ description: "A trajetória da equipe de AeroDesign da UFPE"
 
  No ano de 2007, a equipe passou por mudanças profundas. Muitos dos integrantes veteranos tiveram que deixar o grupo, visto que sua formação acadêmica havia sido concluída, restando apenas um membro efetivo na equipe. O grupo que saiu do projeto se envolveu em uma iniciativa audaciosa e inovadora: construir, em parceria com um professor da universidade e a própria equipe de AeroDesign, um avião de voo autônomo, controlado por computadores, com o objetivo de capturar imagens de uma rota pré-programada.
 
- O ano de 2008 foi marcado pela renovação: a equipe retornou com apenas um veterano e diversos novos integrantes. O desafio de garantir o patrocínio e viabilizar a viagem foi vencido. Na pista, o esforço valeu a pena: o objetivo principal foi atingido com a realização de um voo válido. O 33º lugar, embora modesto, serviu de grande motivação para a temporada seguinte
+ O ano de 2008 foi marcado pela renovação: a equipe retornou com apenas um veterano e diversos novos integrantes. O desafio de garantir o patrocínio e viabilizar a viagem foi vencido. Na pista, o esforço valeu a pena: o objetivo principal foi atingido com a realização de um voo válido. O 33º lugar, embora modesto, serviu de grande motivação para a temporada seguinte.
 
  Em 2009, a base da equipe foi mantida e novas metas foram estabelecidas. O aprimoramento do relatório técnico e a intensificação dos testes de voo em Recife foram decisivos para o desempenho em São José dos Campos. O esforço resultou na 22ª posição geral e no 1º lugar entre as equipes do Norte-Nordeste, marcando a melhor classificação histórica da equipe até o momento.
 
@@ -41,7 +41,7 @@ description: "A trajetória da equipe de AeroDesign da UFPE"
 
  O ano de 2015 foi marcado por uma ambição sem precedentes. Pela primeira vez, a equipe ingressou na Classe Micro. Buscando superar seus limites, a Mandacaru assumiu o desafio logístico e técnico de competir em duas categorias simultâneas na mesma temporada: Regular e Micro.
 
- O ano de 2016 foi marcado pela ousadia e pela busca de novos horizontes. Seguindo a iniciativa de diversificação do ano anterior, a equipe Mandacaru decidiu estrear na exigente Classe Advanced. A complexidade técnica dessa categoria impôs severas dificuldades ao desenvolvimento do projeto, resultando em uma temporada árdua. Contudo, a experiência gerou um aprendizado técnico inestimável sobre sistemas aeronáuticos avançados
+ O ano de 2016 foi marcado pela ousadia e pela busca de novos horizontes. Seguindo a iniciativa de diversificação do ano anterior, a equipe Mandacaru decidiu estrear na exigente Classe Advanced. A complexidade técnica dessa categoria impôs severas dificuldades ao desenvolvimento do projeto, resultando em uma temporada árdua. Contudo, a experiência gerou um aprendizado técnico inestimável sobre sistemas aeronáuticos avançados.
 
  A temporada de 2017 entrou para a história como um marco de superação e excelência. A equipe Mandacaru quebrou um jejum de quatro anos sem validar voos classificatórios e fez isso em grande estilo: bateu seus recordes internos de maior carga paga transportada e maior quantidade de voos realizados em uma única competição. O desempenho em pista garantiu a 16ª colocação na Classe Regular, a melhor posição geral da equipe em seus 17 anos de existência até então. O reconhecimento técnico também foi notável: o grupo conquistou o 8º lugar em Projeto (somatório de relatório e apresentação oral), figurando no Top 10 nacional de engenharia.
 

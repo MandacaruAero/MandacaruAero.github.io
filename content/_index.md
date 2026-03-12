@@ -44,7 +44,10 @@ layout: "home"
         <img src="/images/patrocinadores/CTG-UFPE-logo.png" alt="CTG">
     </a>
     <a class="sponsor-card">
-        <img src="/images/patrocinadores/demec-logo.webp" alt="CTG">
+        <img src="/images/patrocinadores/demec-logo.webp" alt="demec">
+    </a>
+    <a class="sponsor-card">
+        <img src="/images/patrocinadores/woodpecker-balsa-logo.png" alt="woodpecker balsa">
     </a>
 
 </div>

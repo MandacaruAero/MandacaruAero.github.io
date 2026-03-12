@@ -69,19 +69,13 @@ body.dark .post-entry:hover {
     margin-top: 40px;
 }
 
+/* Espaço de patrocinadores*/
 .sponsor-card {
     display: flex;
     align-items: center;
     justify-content: center;
     
-    /* --- AQUI.sponsor-card {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
-    /* ALTERAÇÃO AQUI: Damos um tamanho máximo à caixa,
-       mas deixamos a altura flexível para o conteúdo. */
-    max-width: 180px;  /* Largura máxima da caixa (pode ajustar) */
+    max-width: 200px;  /* Largura máxima da caixa (pode ajustar) */
     min-width: 120px;  /* Garante que não fique minúsculo */
     height: 120px;     /* Altura FIXA da caixa para alinhar */
     
