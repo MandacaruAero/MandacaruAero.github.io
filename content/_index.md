@@ -49,5 +49,8 @@ layout: "home"
     <a class="sponsor-card">
         <img src="/images/patrocinadores/woodpecker-balsa-logo.png" alt="woodpecker balsa">
     </a>
+    <a class="sponsor-card">
+        <img src="/images/patrocinadores/Ansys-logo.png" alt="Ansys">
+    </a>
 
 </div>
