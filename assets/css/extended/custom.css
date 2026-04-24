@@ -36,6 +36,36 @@ body.home .page-header {
     border: 2px solid transparent; 
 }
 
+/* Quem Somos */
+.quem-somos{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.quem-somos-texto {
+    flex: 1;
+    min-width: 300px;
+
+    text-align: justify;
+}
+
+/* Nossa Missao */
+.nossa-missao{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+.nossa-missao-texto{
+    flex: 1;
+    min-width: 300px;
+
+    text-align: justify;
+}
 
 .post-entry:hover {
     /* Faz o card subir levemente */
