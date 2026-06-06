@@ -106,8 +106,8 @@ body.dark .post-entry:hover {
     justify-content: center;
     
     max-width: 200px;  /* Largura máxima da caixa (pode ajustar) */
-    min-width: 120px;  /* Garante que não fique minúsculo */
-    height: 120px;     /* Altura FIXA da caixa para alinhar */
+    min-width: 130px;  /* Garante que não fique minúsculo */
+    height: 130px;     /* Altura FIXA da caixa para alinhar */
     
     background: #fff; 
     border-radius: 8px;

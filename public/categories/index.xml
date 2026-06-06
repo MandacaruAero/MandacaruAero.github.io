@@ -4,8 +4,10 @@
     <title>Categories on Mandacaru Aerodesign</title>
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Mandacaru Aerodesign</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.159.0</generator>
     <language>pt-br</language>
+    <managingEditor>mandacaruaero@gmail.com (Mandacaru Aerodesign)</managingEditor>
+    <webMaster>mandacaruaero@gmail.com (Mandacaru Aerodesign)</webMaster>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

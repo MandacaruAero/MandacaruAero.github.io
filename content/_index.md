@@ -52,5 +52,8 @@ layout: "home"
     <a class="sponsor-card">
         <img src="/images/patrocinadores/Ansys-logo.png" alt="Ansys">
     </a>
+    <a class="sponsor-card">
+        <img src="/images/patrocinadores/scorpion-logo.png" alt="Scorpion Power System">
+    </a>
 
 </div>
