@@ -9,11 +9,9 @@ theme = 'PaperMod'
   disableThemeToggle = true
   description = "Site oficial da equipe Mandacaru Aerodesign da UFPE"
   mainSections = ["blog", "noticias"]
+  author = "Mandacaru Aerodesign"
+  hideAuthor = true 
 
-  # Correção para o erro do rss.xml (Dados do Autor)
-  [params.author]
-    name = "Mandacaru Aerodesign"
-    email = "mandacaruaero@gmail.com" # Substitua pelo e-mail oficial da equipe
 
   # Configuração dos assets
   [params.assets]
