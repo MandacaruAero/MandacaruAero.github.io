@@ -3,39 +3,49 @@ languageCode = 'pt-br'
 title = 'Mandacaru Aerodesign'
 theme = 'PaperMod'
 
-[params.label]
-    text = "Mandacaru Aerodesign" # Nome que aparece ao lado do logo
-    icon = "/images/logo_aero.svg"  # O caminho para o seu arquivo
-    iconHeight = 50            # Tamanho em pixels (ajuste conforme necessário)
-
+# Configurações Gerais dos Parâmetros do Site
 [params]
   defaultTheme = "light"
   disableThemeToggle = true
   description = "Site oficial da equipe Mandacaru Aerodesign da UFPE"
   mainSections = ["blog", "noticias"]
 
+  # Correção para o erro do rss.xml (Dados do Autor)
+  [params.author]
+    name = "Mandacaru Aerodesign"
+    email = "mandacaruaero@gmail.com" # Substitua pelo e-mail oficial da equipe
+
+  # Configuração dos assets
   [params.assets]
     favicon = "/images/logo_aero.svg"
- 
-# Paginas do header
+
+  # Configuração da ID visual do Header
+  [params.label]
+    text = "Mandacaru Aerodesign"     # Nome que aparece ao lado do logo
+    icon = "/images/logo_aero.svg"    # O caminho para o seu arquivo
+    iconHeight = 50                   # Tamanho em pixels (ajuste conforme necessário)
+
+# Páginas do header (Menu)
 [menu]
   [[menu.main]]
     identifier = "projetos"
     name = "Nossos Aviões"
     url = "/projetos/"
     weight = 10
+
   [[menu.main]]
     identifier = "patrocinio"
     name = "Patrocinadores"
     url = "#patrocinadores"
     weight = 20
+
   [[menu.main]]
     identifier = "historia"
     name = "História"
     url = "/historia/"
-    weight = 10
+    weight = 30 # Ajustado para 30 para seguir a ordem correta (10, 20, 30)
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true           # Permite uso de CSS para customizar
+      unsafe = true           # Permite uso de HTML/CSS nos arquivos Markdown
