@@ -6,4 +6,3 @@ tags: ["Classe Regular"]
 ---
 
 ## Avião 2017
-
