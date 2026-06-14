@@ -2,8 +2,11 @@
 title: 'Severina'
 weight: 1
 
-tags: ["2025", "Classe Micro"]
+tags: ["Classe Micro"]
 
 ---
+
+## Avião 2025
+
 
 ![Um aeromodelo sendo preparado para decolar](/images/avioes/severina.JPG)
