@@ -55,5 +55,8 @@ layout: "home"
     <a class="sponsor-card">
         <img src="/images/patrocinadores/scorpion-logo.png" alt="Scorpion Power System">
     </a>
+    <a class="sponsor-card">
+        <img src="/images/patrocinadores/MATLAB-logo.png" alt="MATLAB">
+    </a>
 
 </div>
