@@ -1,5 +1,5 @@
 baseURL = 'https://mandacaruaero.github.io/' # Tem que ser o mesmo do domínio do site
-languageCode = 'pt-br'
+locale = 'pt-br'
 title = 'Mandacaru Aerodesign'
 theme = 'PaperMod'
 
