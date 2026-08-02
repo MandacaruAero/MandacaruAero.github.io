@@ -37,25 +37,25 @@ layout: "home"
 ## Patrocinadores
 
 <div class="sponsors-grid">
-    <a class="sponsor-card">
+    <a class="sponsor-card" href="https://www.ufpe.br/">
         <img src="/images/patrocinadores/UFPE-logo.png" alt="UFPE">
     </a>
-    <a class="sponsor-card">
+    <a class="sponsor-card" href="https://www.ufpe.br/ctg">
         <img src="/images/patrocinadores/CTG-UFPE-logo.png" alt="CTG">
     </a>
-    <a class="sponsor-card">
+    <a class="sponsor-card" href="https://www.ufpe.br/demec">
         <img src="/images/patrocinadores/demec-logo.webp" alt="demec">
     </a>
-    <a class="sponsor-card">
+    <a class="sponsor-card" href="https://www.instagram.com/woodpeckerbalsawood/">
         <img src="/images/patrocinadores/woodpecker-balsa-logo.png" alt="woodpecker balsa">
     </a>
-    <a class="sponsor-card">
+    <a class="sponsor-card" href="https://www.ansys.com/">
         <img src="/images/patrocinadores/Ansys-logo.png" alt="Ansys">
     </a>
-    <a class="sponsor-card">
+    <a class="sponsor-card" href="https://www.scorpionsystem.com/">
         <img src="/images/patrocinadores/scorpion-logo.png" alt="Scorpion Power System">
     </a>
-    <a class="sponsor-card">
+    <a class="sponsor-card" href="https://www.mathworks.com/">
         <img src="/images/patrocinadores/MATLAB-logo.png" alt="MATLAB">
     </a>
 
