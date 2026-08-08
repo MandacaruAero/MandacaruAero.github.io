@@ -12,19 +12,19 @@ layout: "home"
             Somos a equipe de aerodesign da Universidade Federal de Pernambuco (UFPE). Desde 2001, nosso objetivo é projetar a aeronave mais eficiente capaz de transportar a maior carga paga possível.
         </p>
         <p>
-            Participamos anualmente da <strong>SAE Brasil Aerodesign</strong> em São José dos Campos-SP, competindo contra mais de 60 equipes de todo o país.
+            Participamos anualmente da <strong>SAE Brasil Aerodesign</strong> em São José dos Campos - SP, competindo contra mais de 60 equipes de todo o país.
         </p>
         <a href="/historia/" style="text-decoration: underline;">Leia nossa história completa →</a>
     </div>
     <div style="flex: 1; min-width: 300px;">
-        <img src="/images/equipe.jpeg" alt="Foto da Equipe na Pista" style="border-radius: 8px; width: 100%;">
+        <img src="/images/equipe.jpeg" alt="Foto da Equipe Mandacaru Aerodesign da UFPE na competição em São José dos Campos" style="border-radius: 8px; width: 100%;">
     </div>
 </div>
 
 
 <div class="nossa-missao"> 
 <div style="flex: 1; min-width: 300px;">
-        <img src="/images/galpao_foto.jfif" alt="Foto do Galpão da equipe" style="border-radius: 8px; width: 100%;">
+        <img src="/images/galpao_foto.webp" alt="Foto do Galpão da Mandacaru Aerodesing no departamento de mecânica da UFPE" style="border-radius: 8px; width: 100%;">
     </div>
     <div class="nossa-missao-texto">
         <h2>Nossa Missão</h2>
@@ -59,4 +59,11 @@ layout: "home"
         <img src="/images/patrocinadores/MATLAB-logo.png" alt="MATLAB">
     </a>
 
+</div>
+
+<div class="sponsor-cta">
+    <p>Quer apoiar a Mandacaru Aerodesign?</p>
+    <a class="sponsor-cta-button" href="mailto:mandacaru.aerodesign@ufpe.br?subject=Interesse em Patrocínio - Mandacaru Aerodesign">
+        Fale conosco por e-mail
+    </a>
 </div>

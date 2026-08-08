@@ -1,5 +1,5 @@
 ---
-title: 'Aeronave Leviana'
+title: 'Morena Tropicana'
 weight: 9
 
 tags: ["Classe Regular"]
